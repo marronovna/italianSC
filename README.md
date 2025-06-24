@@ -1,2 +1,2 @@
 # example for Speaking Club site
-# https://marronovna.github.io/CoffeBar/
+#  https://marronovna.github.io/italianSC/
