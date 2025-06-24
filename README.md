@@ -1,2 +1,2 @@
-# example for Coffe bar site
+# example for Speaking Club site
 # https://marronovna.github.io/CoffeBar/
